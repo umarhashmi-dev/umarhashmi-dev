@@ -1,25 +1,98 @@
-# 💫 About Me:
-I'm a Full-Stack Web Developer, UI/UX Designer and Automation Expert with 6+ years of experience building modern, fast, and intelligent web solutions.
+<div align="center">
 
+# Umar Hashmi
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://www.threads.com/@umarhashmi.dev) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/umarhashmi.dev/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/umarhashmi.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/umarhashmi-dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/umarhashmi_dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://github.com/umarhashmi-dev) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/umarhashmi-dev) 
+</div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=umarhashmi-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=umarhashmi-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=umarhashmi-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=umarhashmi-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Full-Stack Web Developer • UI/UX Designer • Automation Expert**<br/>
+6+ years of experience building modern, fast, and intelligent web solutions
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=umarhashmi-dev&icon=2&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/umarhashmi_dev) 
+<div align="center">
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/your-invite-link)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/umarhashmi.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/umarhashmi.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umarhashmi-dev)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/umarhashmi_dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/umarhashmi-dev)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/umarhashmi-dev)
+
+</div>
+
+---
+
+<div align="center">
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://html5.com)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://css3.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://javascript.com)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://php.net)
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://mysql.com)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
+[![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white)](https://adobe.com)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://figma.com)
+
+</div>
+
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="25%"><img src="https://i.postimg.cc/25F1GTYv/Advanced-Digital-Transformation-1.jpg" width="100%"></td>
+      <td width="25%"><img src="https://i.postimg.cc/C1hzQDM2/Advertising-with-Meta-1.jpg" width="100%"></td>
+      <td width="25%"><img src="https://i.postimg.cc/4dWmkdmx/Building-Generative-Al-Powered-Applications-with-1.jpg" width="100%"></td>
+      <td width="25%"><img src="https://i.postimg.cc/Zqh962G4/CSS-and-Javascript-1.jpg" width="100%"></td>
+    </tr>
+    <tr>
+      <td width="25%"><img src="https://i.postimg.cc/8css1S6B/Customer-Understanding-and-Digital-Marketing-1.jpg" width="100%"></td>
+      <td width="25%"><img src="https://i.postimg.cc/jqkLMLp8/Foundations-of-User-Experience-UX-Design-1.jpg" width="100%"></td>
+      <td width="25%"><img src="https://i.postimg.cc/wMPMMG5K/Fundamentals-of-Social-Media-Advertising-1.jpg" width="100%"></td>
+      <td width="25%"><img src="https://i.postimg.cc/hPzh6KgK/Generative-Al-Prompt-Engineering-Basics-1.jpg" width="100%"></td>
+    </tr>
+    <tr>
+      <td width="25%"><img src="https://i.postimg.cc/WbBtPxbg/IBM-Generative-AI-Engineering-1.jpg" width="100%"></td>
+      <td width="25%"><img src="https://i.postimg.cc/P51JfKPc/Introduction-to-Front-End-Development-1.jpg" width="100%"></td>
+      <td width="25%"><img src="https://i.postimg.cc/jjK5DNfj/Introduction-to-Web-Development-University-of-California-Davis-Course-1.jpg" width="100%"></td>
+      <td width="25%"><img src="https://i.postimg.cc/5t3tL05S/Microsoft-AI-Product-Manager-specialization-1.jpg" width="100%"></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=umarhashmi-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=umarhashmi-dev&theme=dark&hide_border=false" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarhashmi-dev&theme=dark&hide_border=false&layout=compact" height="150"/>
+
+</div>
+
+---
+
+<div align="center">
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/umarhashmi_dev)
+
+</div>
+
+---
+
+<div align="center">
+
+© 2025 Umar Hashmi • All Rights Reserved
+
+</div>
